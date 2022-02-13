@@ -146,8 +146,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="📣 ᴄʜᴀɴɴᴇʟ",
-                        url="https://t.me/Sanki_BOTs")
+                        text="𓆩👑❛ 𝐋ᴜᴄᴋʏ 𝐖ᴏʀʟᴅ᭄ ❜👑𓆪⁩",
+                        url="https://t.me/terayaarhoomai")
                    
                 ]
             ]
@@ -184,11 +184,11 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📺 ᴄʜᴀɴɴᴇʟ",
-                            url=f"https://t.me/Sanki_BOTs"),
+                            text="𓆩👑❛ 𝐋ᴜᴄᴋʏ",
+                            url=f"https://t.me/cute_boy701"),
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ 🏷️",
-                            url=f"https://t.me/Sanki_Manager")
+                            text="𝐖ᴏʀʟᴅ᭄ ❜👑𓆪⁩",
+                            url=f"https://t.me/terayaarhoomai")
 
                     ]
                 ]
@@ -202,8 +202,8 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                text="📺 ᴄʜᴀɴɴᴇʟ",
-                                url=f"https://t.me/Sanki_BOTs")
+                                text="𓆩👑❛ 𝐋ᴜᴄᴋʏ 𝐖ᴏʀʟᴅ᭄ ❜👑𓆪⁩",
+                                url=f"https://t.me/terayaarhoomai")
 
                         ]
                     ]
@@ -252,11 +252,11 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📺 ᴄʜᴀɴɴᴇʟ",
-                            url=f"https://t.me/Sanki_BOTs"),
+                            text="𓆩👑❛ 𝐋ᴜᴄᴋʏ",
+                            url=f"https://t.me/terayaarhoomai"),
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ 🏷",
-                            url=f"https://t.me/Sanki_Manager")
+                            text="𝐖ᴏʀʟᴅ᭄ ❜👑𓆪⁩",
+                            url=f"https://t.me/terayaarhoomai")
 
                     ]
                 ]
